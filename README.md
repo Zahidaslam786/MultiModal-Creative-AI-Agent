@@ -29,11 +29,11 @@ This module transforms the agent into a Data Scientist. Using **Pandas** and spe
 
 **Key Techniques:** Pandas Integration, Persona-based Prompting, Synthetic Data Analysis.
 <div align="center">
-  <img src="YOUR_IMAGE_LINK_FOR_PANDAS_ANALYSIS" width="90%" />
+  <img src="https://github.com/user-attachments/assets/2d51b67b-eafe-4ea5-9104-100b9b57a7f6" width="90%" />
 </div>
 <div align="center">
-  <img src="YOUR_IMAGE_LINK_FOR_LLM_EXPERT_1" width="48%" />
-  <img src="YOUR_IMAGE_LINK_FOR_LLM_EXPERT_2" width="48%" />
+  <img src="https://github.com/user-attachments/assets/c5a8ad20-bc75-42b7-8791-53b1eb0790" width="48%" />
+  <img src="https://github.com/user-attachments/assets/e8bcdbc6-f411-4d0c-b989-aa70e963f164" width="48%" />
   <p><i>Technical Data Studio Interface & Expert LLM Personas</i></p>
 </div>
 
